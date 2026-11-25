@@ -1,0 +1,3224 @@
+{
+  "sources": [
+    {
+      "name": "Rilly 2010 Proto-NES Reconstructions (Wiktionary)",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://en.wiktionary.org/wiki/Appendix:Northern_Eastern_Sudanic_reconstructions"
+    },
+    {
+      "name": "Rilly 2005 Nara Wordlist (Wiktionary)",
+      "license": "CC-BY-SA-4.0",
+      "url": "https://en.wiktionary.org/wiki/Appendix:Nara_word_list"
+    },
+    {
+      "name": "ASJP v20 CLDF (lexibank/asjp — Nubian, Nara, Taman, Nyimang)",
+      "license": "CC-BY-4.0",
+      "url": "https://github.com/lexibank/asjp"
+    }
+  ],
+  "asjp_languages_count": 18,
+  "asjp_forms_count": 897,
+  "families": [
+    "Nara",
+    "Nubian",
+    "Nyimang",
+    "Taman"
+  ],
+  "concepts": [
+    {
+      "concept_no": 1,
+      "french_gloss": "abattre",
+      "english_gloss": "tear down",
+      "proto_nubian": "*ŋodd-; *goj- découper (gémination expressive ?); abattre",
+      "proto_taman": "*kid-",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 2,
+      "french_gloss": "acheter",
+      "english_gloss": "buy",
+      "proto_nubian": "*jaan-",
+      "proto_taman": "",
+      "proto_nyima": "*tar-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 3,
+      "french_gloss": "aimer",
+      "english_gloss": "like",
+      "proto_nubian": "*oon-; *doll-",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 4,
+      "french_gloss": "aller",
+      "english_gloss": "go",
+      "proto_nubian": "*juur-",
+      "proto_taman": "*log- (?)",
+      "proto_nyima": "*tɔr / *ko",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 5,
+      "french_gloss": "amer",
+      "english_gloss": "bitter",
+      "proto_nubian": "*ŋadd-i ~ *ŋard-i",
+      "proto_taman": "*kuur-",
+      "proto_nyima": "*kar-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 6,
+      "french_gloss": "âne",
+      "english_gloss": "donkey",
+      "proto_nubian": "*kaj-i",
+      "proto_taman": "*lel /*len",
+      "proto_nyima": "",
+      "nara_form": "horge",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 7,
+      "french_gloss": "arbre, bois",
+      "english_gloss": "tree, wood",
+      "proto_nubian": "*koor-i; *ber-",
+      "proto_taman": "*gaan; *kiɲe(-ti) (?)",
+      "proto_nyima": "*t̪uma",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 8,
+      "french_gloss": "asseoir (s’)",
+      "english_gloss": "sit down",
+      "proto_nubian": "*ti(i)g-, *te(e)g-",
+      "proto_taman": "*juk-",
+      "proto_nyima": "*dɔ̀ɲ; *t̪íg-",
+      "nara_form": "deŋgi",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 9,
+      "french_gloss": "aveugle",
+      "english_gloss": "blind",
+      "proto_nubian": "*dúŋ(-ur)",
+      "proto_taman": "*(h)ombu",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 10,
+      "french_gloss": "baigner (se), nager",
+      "english_gloss": "to bathe, to swim",
+      "proto_nubian": "*eeb-, *(e)b-Vr-",
+      "proto_taman": "*eeg-",
+      "proto_nyima": "?",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 11,
+      "french_gloss": "bâton",
+      "english_gloss": "stick",
+      "proto_nubian": "*kol- (?)",
+      "proto_taman": "*dog(ul)-",
+      "proto_nyima": "*dɔ̀g",
+      "nara_form": "kora",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 12,
+      "french_gloss": "blanc",
+      "english_gloss": "white",
+      "proto_nubian": "*arr-e",
+      "proto_taman": "*e(e)-k < *er-k ?",
+      "proto_nyima": "*t̪à-bár-",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "tab3ra"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "tabar"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "aro"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "ErEn"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 13,
+      "french_gloss": "blessure",
+      "english_gloss": "injury",
+      "proto_nubian": "Est: *koor-; Ouest: *kool-",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 14,
+      "french_gloss": "boire",
+      "english_gloss": "to drink",
+      "proto_nubian": "*nii-",
+      "proto_taman": "*li-",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 15,
+      "french_gloss": "bon, beau, doux",
+      "english_gloss": "good, beautiful, sweet",
+      "proto_nubian": "*gen",
+      "proto_taman": "*dii",
+      "proto_nyima": "",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "kwonjigE"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kEru"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "sErE"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "hagi"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 16,
+      "french_gloss": "bouche",
+      "english_gloss": "mouth",
+      "proto_nubian": "*agil",
+      "proto_taman": "*auli",
+      "proto_nyima": "*ŋàl-",
+      "nara_form": "awɔlo, àwòlà",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "Ngila"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "Nal"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "agil"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "awlo"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 17,
+      "french_gloss": "bouclier",
+      "english_gloss": "shield",
+      "proto_nubian": "*kar-",
+      "proto_taman": "",
+      "proto_nyima": "*tVr- (?)",
+      "nara_form": "kodo",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 18,
+      "french_gloss": "brûler, allumer",
+      "english_gloss": "to burn, to light",
+      "proto_nubian": "*urr-",
+      "proto_taman": "*wer-",
+      "proto_nyima": "*k-us- / *t̪-us-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 19,
+      "french_gloss": "ce, cette (that)",
+      "english_gloss": "that",
+      "proto_nubian": "*te",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "dol"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "man"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "te"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 20,
+      "french_gloss": "ce, cette (this)",
+      "english_gloss": "this",
+      "proto_nubian": "*in",
+      "proto_taman": "*iŋ",
+      "proto_nyima": "*nV",
+      "nara_form": "yi",
+      "asjp_forms": [
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "no"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "in"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "yi"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 21,
+      "french_gloss": "cendres",
+      "english_gloss": "ashes",
+      "proto_nubian": "*uburti",
+      "proto_taman": "agurŋo (?)",
+      "proto_nyima": "*finan",
+      "nara_form": "hübet, hɪbɪd",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 22,
+      "french_gloss": "chanter",
+      "english_gloss": "sing",
+      "proto_nubian": "*oor-",
+      "proto_taman": "*or- (?)",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 23,
+      "french_gloss": "chaud",
+      "english_gloss": "hot",
+      "proto_nubian": "*jug- (Est + midob) / *ooŋ (Ouest)",
+      "proto_taman": "*kaidi",
+      "proto_nyima": "",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "jukarE"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kabar"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "jugri"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "dawu"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 24,
+      "french_gloss": "cheval",
+      "english_gloss": "horse",
+      "proto_nubian": "*mur-ti",
+      "proto_taman": "*furta",
+      "proto_nyima": "*mɔrt̪V",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 25,
+      "french_gloss": "cheveux",
+      "english_gloss": "hair",
+      "proto_nubian": "*del(-ti)",
+      "proto_taman": "*sigit",
+      "proto_nyima": "*ì(g)é",
+      "nara_form": "sabi",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "iya"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "je"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "dilt"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "sEbi"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 26,
+      "french_gloss": "chèvre",
+      "english_gloss": "goat",
+      "proto_nubian": "*bel(-ti)",
+      "proto_taman": "*bil",
+      "proto_nyima": "*kund- (?)",
+      "nara_form": "bele",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 27,
+      "french_gloss": "chien",
+      "english_gloss": "dog",
+      "proto_nubian": "*wel",
+      "proto_taman": "*wuus-i",
+      "proto_nyima": "?",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 28,
+      "french_gloss": "ciel",
+      "english_gloss": "sky",
+      "proto_nubian": "*ár- ± extension",
+      "proto_taman": "*(ŋ)ar-",
+      "proto_nyima": "*ar- + extension",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 29,
+      "french_gloss": "cinq",
+      "english_gloss": "five",
+      "proto_nubian": "*diji, Ouest *dijji",
+      "proto_taman": "*masi",
+      "proto_nyima": "*mul",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 30,
+      "french_gloss": "cœur",
+      "english_gloss": "heart",
+      "proto_nubian": "*asil (Ouest) ~ *asil-(n-)di (diminutif)",
+      "proto_taman": "*samil",
+      "proto_nyima": "*t̪il-um",
+      "nara_form": "asma",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "tilim"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "wilin wel"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "a"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "Esma"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 31,
+      "french_gloss": "construire",
+      "english_gloss": "to build",
+      "proto_nubian": "*goɲ",
+      "proto_taman": "*gun-",
+      "proto_nyima": "*t̪og- / *kog-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 32,
+      "french_gloss": "corde",
+      "english_gloss": "rope",
+      "proto_nubian": "*err-i",
+      "proto_taman": "*(ŋ)arugun",
+      "proto_nyima": "*kur- (?)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 33,
+      "french_gloss": "corne",
+      "english_gloss": "come",
+      "proto_nubian": "*ŋees-i, sg. *ŋes-ti",
+      "proto_taman": "*ŋe-ti",
+      "proto_nyima": "*gur-t̪i",
+      "nara_form": "till-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 34,
+      "french_gloss": "corps",
+      "english_gloss": "body",
+      "proto_nubian": "*e(e)r-i",
+      "proto_taman": "*mer(i)-ti",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 35,
+      "french_gloss": "cou",
+      "english_gloss": "neck",
+      "proto_nubian": "*ebe ~ *ee",
+      "proto_taman": "*(s)ebe-ti",
+      "proto_nyima": "*bet̪V",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "b3ta"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "taNa"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "bEdE"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "gumur"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "habe"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 36,
+      "french_gloss": "couper",
+      "english_gloss": "cut",
+      "proto_nubian": "*mer-",
+      "proto_taman": "*kid-",
+      "proto_nyima": "",
+      "nara_form": "ked, kad",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 37,
+      "french_gloss": "cueillir, prendre",
+      "english_gloss": "pick, take",
+      "proto_nubian": "*dumm-; *dol-",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "nara_form": "nem-, nam-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 38,
+      "french_gloss": "danser",
+      "english_gloss": "dance",
+      "proto_nubian": "*baan- ?",
+      "proto_taman": "",
+      "proto_nyima": "*t̪e-bal- / *fal",
+      "nara_form": "bal-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 39,
+      "french_gloss": "demander",
+      "english_gloss": "request",
+      "proto_nubian": "*is-kir",
+      "proto_taman": "*isk- ~ *usk-",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 40,
+      "french_gloss": "dent",
+      "english_gloss": "tooth",
+      "proto_nubian": "*ŋil, sg. ŋíl-di",
+      "proto_taman": "*ŋesi-t(i), pl. *ŋes-oŋ",
+      "proto_nyima": "*ŋil-",
+      "nara_form": "nihi",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 41,
+      "french_gloss": "descendre",
+      "english_gloss": "go down",
+      "proto_nubian": "*sukk-",
+      "proto_taman": "*sur- (?)",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 42,
+      "french_gloss": "deux",
+      "english_gloss": "two",
+      "proto_nubian": "*orr-u",
+      "proto_taman": "*wari (< *ori ?)",
+      "proto_nyima": "*arma(g)",
+      "nara_form": "ariga",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 43,
+      "french_gloss": "dieu",
+      "english_gloss": "God",
+      "proto_nubian": "*ebed-",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "nara_form": "ebberé",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 44,
+      "french_gloss": "dire",
+      "english_gloss": "terrible",
+      "proto_nubian": "*wee-; *an-",
+      "proto_taman": "*an-",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 45,
+      "french_gloss": "diviser, partie",
+      "english_gloss": "divide, part",
+      "proto_nubian": "*baag-",
+      "proto_taman": "*bak",
+      "proto_nyima": "*bV-",
+      "nara_form": "wagi",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 46,
+      "french_gloss": "dix",
+      "english_gloss": "ten",
+      "proto_nubian": "*di-mer ± -n; *ir",
+      "proto_taman": "*mer / *tok",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 47,
+      "french_gloss": "donner",
+      "english_gloss": "give",
+      "proto_nubian": "*deen-",
+      "proto_taman": "*ti(n)-",
+      "proto_nyima": "*t̪Vg-; *t̪ɔ́ŋ",
+      "nara_form": "nin",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "t3gE"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "tEg"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "togon"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "dEn"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "tir"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "ni"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 48,
+      "french_gloss": "dormir, s'allonger",
+      "english_gloss": "to sleep, lie down",
+      "proto_nubian": "*ŋèer-",
+      "proto_taman": "*ŋar- / *a(m)ba-",
+      "proto_nyima": "*t̪ug- / *tuŋ",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 49,
+      "french_gloss": "dos",
+      "english_gloss": "back",
+      "proto_nubian": "*jer (Est + midob) / *maɲ- (Ouest)",
+      "proto_taman": "*(a)na(g)- (?)",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 50,
+      "french_gloss": "droite (à)",
+      "english_gloss": "to the right",
+      "proto_nubian": "*usi-n-(gor)",
+      "proto_taman": "*owu-ged",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 51,
+      "french_gloss": "eau",
+      "english_gloss": "water",
+      "proto_nubian": "*es(-ti) ~ *os",
+      "proto_taman": "*kal /*kaal",
+      "proto_nyima": "*bɔ́ŋ",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 52,
+      "french_gloss": "éléphant",
+      "english_gloss": "elephant",
+      "proto_nubian": "*aŋgur",
+      "proto_taman": "*aŋor ~ *aŋgor",
+      "proto_nyima": "*Vr-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 53,
+      "french_gloss": "emporter",
+      "english_gloss": "carry",
+      "proto_nubian": "*aar-",
+      "proto_taman": "*ar-i",
+      "proto_nyima": "*t̪-ur / *ur",
+      "nara_form": "soŋgi, suŋ-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 54,
+      "french_gloss": "enclos, zériba",
+      "english_gloss": "enclosures, zériba",
+      "proto_nubian": "*kar(-ti)",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 55,
+      "french_gloss": "enfant",
+      "english_gloss": "child",
+      "proto_nubian": "*too-di, pl. *too-ɲi",
+      "proto_taman": "*taat enfant",
+      "proto_nyima": "*ŋV",
+      "nara_form": "tii",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 56,
+      "french_gloss": "enfanter",
+      "english_gloss": "birth",
+      "proto_nubian": "*ir-",
+      "proto_taman": "*in-",
+      "proto_nyima": "*suŋ; *ar-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 57,
+      "french_gloss": "entendre",
+      "english_gloss": "understand",
+      "proto_nubian": "*gijer",
+      "proto_taman": "*sig-",
+      "proto_nyima": "?",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 58,
+      "french_gloss": "entrer",
+      "english_gloss": "enter",
+      "proto_nubian": "*toor-",
+      "proto_taman": "",
+      "proto_nyima": "*ul-; *tɔr / *kot-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 59,
+      "french_gloss": "épine, pointe",
+      "english_gloss": "spine, tip",
+      "proto_nubian": "*kándi; *num-",
+      "proto_taman": "*gir-e, sg. *giri-t(i)",
+      "proto_nyima": "*ord̪u",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 60,
+      "french_gloss": "esclave",
+      "english_gloss": "slave",
+      "proto_nubian": "*nogu, sg. *nogu-di",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 61,
+      "french_gloss": "étoile",
+      "english_gloss": "star",
+      "proto_nubian": "*oɲe ~ *wiɲe, sg. *oɲ(e)-di ~ *wiɲ(e)-di",
+      "proto_taman": "*miɲe, sg. miɲe-ti",
+      "proto_nyima": "",
+      "nara_form": "wini",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 62,
+      "french_gloss": "être (verbe)",
+      "english_gloss": "to be (verb)",
+      "proto_nubian": "*-a(n), pl. *-a-gV",
+      "proto_taman": "sg. *an-, pl. *ag-",
+      "proto_nyima": "*nV",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 63,
+      "french_gloss": "excrément",
+      "english_gloss": "excrement",
+      "proto_nubian": "*uɲɲi",
+      "proto_taman": "*gesi",
+      "proto_nyima": "*ɲigul",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 64,
+      "french_gloss": "faim, avoir faim",
+      "english_gloss": "hungry",
+      "proto_nubian": "?",
+      "proto_taman": "*(a)ŋos- (?)",
+      "proto_nyima": "*kunuŋ",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 65,
+      "french_gloss": "faire",
+      "english_gloss": "make",
+      "proto_nubian": "*aar-, Ouest *eer-",
+      "proto_taman": "*en-",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 66,
+      "french_gloss": "femme, épouse",
+      "english_gloss": "wife, wife",
+      "proto_nubian": "*il-di",
+      "proto_taman": "*i(r)",
+      "proto_nyima": "*kàrí",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 67,
+      "french_gloss": "fer",
+      "english_gloss": "iron",
+      "proto_nubian": "*ʃar-ti ~ *sar-ti",
+      "proto_taman": "*ari (?)",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 68,
+      "french_gloss": "feu",
+      "english_gloss": "fire",
+      "proto_nubian": "*usi-gu",
+      "proto_taman": "*usi",
+      "proto_nyima": "*mér",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 69,
+      "french_gloss": "fille (daughter)",
+      "english_gloss": "girl",
+      "proto_nubian": "*as",
+      "proto_taman": "fille; *as-",
+      "proto_nyima": "(= FILS)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 70,
+      "french_gloss": "fils",
+      "english_gloss": "son",
+      "proto_nubian": "*ŋar",
+      "proto_taman": "(= ENFANT)",
+      "proto_nyima": "*ŋV-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 71,
+      "french_gloss": "fort (1)",
+      "english_gloss": "strong (1)",
+      "proto_nubian": "*beer-",
+      "proto_taman": "voir",
+      "proto_nyima": "voir",
+      "nara_form": "hə́bʌ́r-kù",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 72,
+      "french_gloss": "fort (2)",
+      "english_gloss": "strong (2)",
+      "proto_nubian": "*kugur ~ *ugur",
+      "proto_taman": "*kiir",
+      "proto_nyima": "",
+      "nara_form": "hə́bʌ́r-kù",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 73,
+      "french_gloss": "fourmi",
+      "english_gloss": "ant",
+      "proto_nubian": "*goor ~ *koor",
+      "proto_taman": "*kirge, sg. *kirge-t(i)",
+      "proto_nyima": "*kurumV",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 74,
+      "french_gloss": "frapper",
+      "english_gloss": "hit",
+      "proto_nubian": "*toog-",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 75,
+      "french_gloss": "frère",
+      "english_gloss": "brother",
+      "proto_nubian": "*wer-i",
+      "proto_taman": "*ŋar frère",
+      "proto_nyima": "*(iŋ-V-)ŋV",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 76,
+      "french_gloss": "froid",
+      "english_gloss": "cold",
+      "proto_nubian": "*or-og-i",
+      "proto_taman": "*sut- /*sun-",
+      "proto_nyima": "",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "kwol3Nga"
+        },
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "orE7orEk"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kwESil"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kwoSil"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "orofEl"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "kEli"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 77,
+      "french_gloss": "fumée",
+      "english_gloss": "smoke",
+      "proto_nubian": "*gusin-ti",
+      "proto_taman": "*tulut",
+      "proto_nyima": "?",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "losga"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "NESi"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "tula"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "asuro"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 78,
+      "french_gloss": "gauche (à)",
+      "english_gloss": "left (to)",
+      "proto_nubian": "*ŋiŋ-gor (?)",
+      "proto_taman": "*kugi-ged (?)",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 79,
+      "french_gloss": "genou",
+      "english_gloss": "knee",
+      "proto_nubian": "*kur-ti",
+      "proto_taman": "*kur-t(i)",
+      "proto_nyima": "*kuɲum",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 80,
+      "french_gloss": "graisse",
+      "english_gloss": "fat",
+      "proto_nubian": "*des",
+      "proto_taman": "*dVdi (?)",
+      "proto_nyima": "*kól; *ɲum",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 81,
+      "french_gloss": "grand",
+      "english_gloss": "grand",
+      "proto_nubian": "*dag-i ~ *dag-ul; *ŋoor-",
+      "proto_taman": "*dawud-",
+      "proto_nyima": "*duga",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 82,
+      "french_gloss": "grand-mère",
+      "english_gloss": "grandmother",
+      "proto_nubian": "*awa (?)",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "nara_form": "afo",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 83,
+      "french_gloss": "haïr, refuser",
+      "english_gloss": "hate, refuse",
+      "proto_nubian": "*mon- < *m-oon-",
+      "proto_taman": "",
+      "proto_nyima": "*d(V)r-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 84,
+      "french_gloss": "herbe",
+      "english_gloss": "grass",
+      "proto_nubian": "gis-e, sg. gis(i)-ti",
+      "proto_taman": "*teri",
+      "proto_nyima": "?",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 85,
+      "french_gloss": "hier",
+      "english_gloss": "yesterday",
+      "proto_nubian": "*ool-e ~ *wiil-e",
+      "proto_taman": "*ore",
+      "proto_nyima": "*méV",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 86,
+      "french_gloss": "homme (mâle)",
+      "english_gloss": "man",
+      "proto_nubian": "*ogoji ~ *ogiji",
+      "proto_taman": "*ma",
+      "proto_nyima": "",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "agwor"
+        },
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "kor"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kwai"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kaSEl"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "ogij"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "ku"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 87,
+      "french_gloss": "hôte",
+      "english_gloss": "host",
+      "proto_nubian": "*isker, sg. *isker-ti",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 88,
+      "french_gloss": "huit",
+      "english_gloss": "eight",
+      "proto_nubian": "*idiwi ~ *iduwi",
+      "proto_taman": "*kimis",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 89,
+      "french_gloss": "hyène, chacal",
+      "english_gloss": "hyena, jackal",
+      "proto_nubian": "*aal-um hyène",
+      "proto_taman": "",
+      "proto_nyima": "*olum",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 90,
+      "french_gloss": "il, elle",
+      "english_gloss": "he she",
+      "proto_nubian": "*te ± déterminant -r",
+      "proto_taman": "*an",
+      "proto_nyima": "*an-, gén. *an-uŋu",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 91,
+      "french_gloss": "ils, elles",
+      "english_gloss": "they they",
+      "proto_nubian": "*ti ± déterminant -r",
+      "proto_taman": "*aniŋ",
+      "proto_nyima": "*an-gi, gén. *an-w-uŋ (?)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 92,
+      "french_gloss": "je",
+      "english_gloss": "I",
+      "proto_nubian": "*a-i, gén. *on(na)",
+      "proto_taman": "*wa, gén. hon(a)",
+      "proto_nyima": "*aí, gén. *o-uŋu",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 93,
+      "french_gloss": "jeter",
+      "english_gloss": "throw",
+      "proto_nubian": "*wir-; *bel(-t)",
+      "proto_taman": "*kal-",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 94,
+      "french_gloss": "jeune fille",
+      "english_gloss": "young lady",
+      "proto_nubian": "*taar",
+      "proto_taman": "*mein",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 95,
+      "french_gloss": "jour",
+      "english_gloss": "day",
+      "proto_nubian": "*ugur",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 96,
+      "french_gloss": "lait",
+      "english_gloss": "milk",
+      "proto_nubian": "*ijji < *ij-ti (?) lait",
+      "proto_taman": "*ji-gu lait",
+      "proto_nyima": "*elo lait",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 97,
+      "french_gloss": "lance, épée",
+      "english_gloss": "lance, sword",
+      "proto_nubian": "Est: emprunts pour « épée »; voir FER pour « lance »; *gora- lance (Ouest)",
+      "proto_taman": "*bara",
+      "proto_nyima": "",
+      "nara_form": "madet",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 98,
+      "french_gloss": "langage, mot",
+      "english_gloss": "language, word",
+      "proto_nubian": "*baɲ-",
+      "proto_taman": "*boɲ-",
+      "proto_nyima": "? *bat̪a",
+      "nara_form": "bana",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 99,
+      "french_gloss": "langue (organe)",
+      "english_gloss": "tongue (organ)",
+      "proto_nubian": "*ŋal, sg. ŋal-di",
+      "proto_taman": "*laat",
+      "proto_nyima": "?",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 100,
+      "french_gloss": "laver",
+      "english_gloss": "wash",
+      "proto_nubian": "*suug-; *jeleb-",
+      "proto_taman": "*eeg-",
+      "proto_nyima": "*ti-gɛl- / *i-gɛl",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 101,
+      "french_gloss": "lier",
+      "english_gloss": "bind",
+      "proto_nubian": "*dig(g)er-",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 102,
+      "french_gloss": "limon, argile",
+      "english_gloss": "silt, clay",
+      "proto_nubian": "*sib-i, sg. sibi-di",
+      "proto_taman": "",
+      "proto_nyima": "*lɔg-",
+      "nara_form": "lɔg",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 103,
+      "french_gloss": "lion",
+      "english_gloss": "lion",
+      "proto_nubian": "*koo; *dagir",
+      "proto_taman": "?",
+      "proto_nyima": "*t̪uwer-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 104,
+      "french_gloss": "long",
+      "english_gloss": "long",
+      "proto_nubian": "*nass-i",
+      "proto_taman": "*lasi-k",
+      "proto_nyima": "",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "s3nda"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "towuro"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "noso"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "Nir"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 105,
+      "french_gloss": "lourd",
+      "english_gloss": "heavy",
+      "proto_nubian": "*dill-e",
+      "proto_taman": "*kuni",
+      "proto_nyima": "",
+      "nara_form": "dilu-ku",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 106,
+      "french_gloss": "lumière, éclair",
+      "english_gloss": "lightning flash",
+      "proto_nubian": "*bilit-ti",
+      "proto_taman": "*(me)mered-",
+      "proto_nyima": "*(sa)salag",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 107,
+      "french_gloss": "lune, mois",
+      "english_gloss": "moon, month",
+      "proto_nubian": "*un-",
+      "proto_taman": "*agit-",
+      "proto_nyima": "*keru",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "ars3n"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kwur"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "unat"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "feta"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 108,
+      "french_gloss": "main",
+      "english_gloss": "primary",
+      "proto_nubian": "*es-i",
+      "proto_taman": "*(a)wei",
+      "proto_nyima": "*ad̪i (?)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 109,
+      "french_gloss": "maison, case",
+      "english_gloss": "house, hut",
+      "proto_nubian": "*kar",
+      "proto_taman": "*wal-i",
+      "proto_nyima": "*wàl-ì",
+      "nara_form": "wa",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 110,
+      "french_gloss": "manger",
+      "english_gloss": "eat",
+      "proto_nubian": "*kal-",
+      "proto_taman": "*ŋan-",
+      "proto_nyima": "*t̪a̍l- / *ta̍m-",
+      "nara_form": "kal",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "tulo"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "tam"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "tal"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "kal"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "kElo"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 111,
+      "french_gloss": "marcher, passer",
+      "english_gloss": "to walk, to pass",
+      "proto_nubian": "*nog- / *nog-j-",
+      "proto_taman": "*log- (?)",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 112,
+      "french_gloss": "mauvais",
+      "english_gloss": "bad",
+      "proto_nubian": "*kuus ~ uus; *meel-",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "nara_form": "koʃ-ku",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 113,
+      "french_gloss": "mère",
+      "english_gloss": "simple",
+      "proto_nubian": "*éen",
+      "proto_taman": "*unon",
+      "proto_nyima": "*Vŋa(ŋ)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 114,
+      "french_gloss": "millet, Pennisetum",
+      "english_gloss": "millet, Pennisetum",
+      "proto_nubian": "*ernde",
+      "proto_taman": "*iwi-",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 115,
+      "french_gloss": "montagne",
+      "english_gloss": "mountain",
+      "proto_nubian": "*kuur",
+      "proto_taman": "*kur- / *kad-",
+      "proto_nyima": "*mɔ̀d̪ɛ́g",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 116,
+      "french_gloss": "monter",
+      "english_gloss": "ascend",
+      "proto_nubian": "*keer-",
+      "proto_taman": "*seg- (?)",
+      "proto_nyima": "*t̪àn- / *-nd̪ìr",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 117,
+      "french_gloss": "mordre",
+      "english_gloss": "bite",
+      "proto_nubian": "*ajj-",
+      "proto_taman": "",
+      "proto_nyima": "? *ŋwud̪-",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "NwodE"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "bwidi"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "aC"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "dEs"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 118,
+      "french_gloss": "mouche",
+      "english_gloss": "fly (insect)",
+      "proto_nubian": "*unde, sg. unde-di ~ undu-di",
+      "proto_taman": "*miɲe, sg. miɲeti",
+      "proto_nyima": "*kòlV-ŋ",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "biri"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "mwuSEg"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "tumoso"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "fir"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 119,
+      "french_gloss": "mourir",
+      "english_gloss": "die",
+      "proto_nubian": "*dii-",
+      "proto_taman": "*ìi-",
+      "proto_nyima": "*lɔ / *luɛ",
+      "nara_form": "di, de, d-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 120,
+      "french_gloss": "mouton",
+      "english_gloss": "sheep",
+      "proto_nubian": "*eged; *kur- ~ *ur-ti",
+      "proto_taman": "*kuri(-ti) ~ *ur-",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 121,
+      "french_gloss": "neuf (chiffre)",
+      "english_gloss": "nine",
+      "proto_nubian": "*iskolda ~ *oskolda",
+      "proto_taman": "*uku",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 122,
+      "french_gloss": "nez",
+      "english_gloss": "nose",
+      "proto_nubian": "?",
+      "proto_taman": "*eme, sg. emi-ti (sg.)",
+      "proto_nyima": "*(o)mud̪- (?)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 123,
+      "french_gloss": "noir, sombre",
+      "english_gloss": "black, dark",
+      "proto_nubian": "*ur(r)-i",
+      "proto_taman": "*kidi-k",
+      "proto_nyima": "*te-bi̍V̀",
+      "nara_form": "suur-ku",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "tibia"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "tEbio"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "urumE"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "sur"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 124,
+      "french_gloss": "nom",
+      "english_gloss": "name",
+      "proto_nubian": "*eri",
+      "proto_taman": "*(ŋ)aat, pl. *(ŋ)ari-g",
+      "proto_nyima": "",
+      "nara_form": "ade, aada",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 125,
+      "french_gloss": "nombreux",
+      "english_gloss": "many",
+      "proto_nubian": "Est: *digir < *dagir (voir GRAND); Ouest: voir PLEIN",
+      "proto_taman": "",
+      "proto_nyima": "*digul-",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "dila"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kadoN"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "degri"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "musak"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 126,
+      "french_gloss": "nombril",
+      "english_gloss": "navel",
+      "proto_nubian": "*gurw-e-(n)-di",
+      "proto_taman": "*(a)gol-",
+      "proto_nyima": "*gúrwi",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 127,
+      "french_gloss": "nous",
+      "english_gloss": "we",
+      "proto_nubian": "*agi",
+      "proto_taman": "*wa-gi, gén. *o-g-un",
+      "proto_nyima": "*agi, gén. *o-w-uŋ",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 128,
+      "french_gloss": "nouveau",
+      "english_gloss": "new",
+      "proto_nubian": "*eer",
+      "proto_taman": "*(a)suu",
+      "proto_nyima": "*ɲɛr-",
+      "nara_form": "wor-ko, wɔr-ku",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 129,
+      "french_gloss": "nuage",
+      "english_gloss": "cloud",
+      "proto_nubian": "*naj-i, sg. naj(i)-di",
+      "proto_taman": "? *(m)ar-",
+      "proto_nyima": "*nes-",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "leja"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "ariNo kwol"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "niC"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "sahab"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "jim"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 130,
+      "french_gloss": "nuit",
+      "english_gloss": "night",
+      "proto_nubian": "*ugur",
+      "proto_taman": "*or-; *ori-V nuit; soir",
+      "proto_nyima": "*t̪únì",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 131,
+      "french_gloss": "œil",
+      "english_gloss": "eye",
+      "proto_nubian": "Est + midob: *maaɲ, sg. miɲ-di (< *maɲ-ti); Kordofan + birgid: *kal-e, sg. *kal-ti",
+      "proto_taman": "*me-ti, pl. *mVŋ",
+      "proto_nyima": "*a̍ŋV",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 132,
+      "french_gloss": "œuf",
+      "english_gloss": "egg",
+      "proto_nubian": "*gos-kal-ti ~ *gos-kal-ti",
+      "proto_taman": "*kube, sg. *kubi-ti",
+      "proto_nyima": "*dómì",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "domi"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "dami"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "kumbu"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "wari"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 133,
+      "french_gloss": "oiseau",
+      "english_gloss": "bird",
+      "proto_nubian": "*ka-wer-e, sg. *ka-wer-ti",
+      "proto_taman": "*weege, sg. wegi-ti",
+      "proto_nyima": "*wórdù",
+      "nara_form": "karba",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "ordo"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "wor"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "kawirtE"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "kErba"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 134,
+      "french_gloss": "ongle",
+      "english_gloss": "nail",
+      "proto_nubian": "*suŋ-u-di ~ *sun-ti",
+      "proto_taman": "*ŋus-a-ti, pl. *ŋos-oŋ (?)",
+      "proto_nyima": "*fal-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 135,
+      "french_gloss": "oreille",
+      "english_gloss": "ear",
+      "proto_nubian": "*ugul(-e), sg. *ugul-di",
+      "proto_taman": "*(ŋ)usu-ti (sg)",
+      "proto_nyima": "*ɲɔgɔr-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 136,
+      "french_gloss": "os",
+      "english_gloss": "bone",
+      "proto_nubian": "*kiser, sg. *kisir-ti",
+      "proto_taman": "*kei-ti, pl. *kei-ŋ",
+      "proto_nyima": "*amV",
+      "nara_form": "kati",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 137,
+      "french_gloss": "ouvrir",
+      "english_gloss": "open",
+      "proto_nubian": "*kag- / *ŋal- / *kus-",
+      "proto_taman": "",
+      "proto_nyima": "*t̪Vn-",
+      "nara_form": "hog",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 138,
+      "french_gloss": "parler",
+      "english_gloss": "speak",
+      "proto_nubian": "*baɲ(ɲ)-",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 139,
+      "french_gloss": "peau, cuir",
+      "english_gloss": "skin, leather",
+      "proto_nubian": "Ouest *noor; ? PN *nawer",
+      "proto_taman": "*gil-",
+      "proto_nyima": "*lum",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 140,
+      "french_gloss": "père",
+      "english_gloss": "father",
+      "proto_nubian": "*baab(-Vn); *aboo",
+      "proto_taman": "*anon; *abba (< *abon par analogie avec MÈRE ?); terme d’adresse",
+      "proto_nyima": "*Vba(ŋ)",
+      "nara_form": "aben",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 141,
+      "french_gloss": "personne",
+      "english_gloss": "nobody",
+      "proto_nubian": "*íd, pl. *ir",
+      "proto_taman": "*at, pl. *ar-i",
+      "proto_nyima": "*wid̪ (?)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 142,
+      "french_gloss": "petit",
+      "english_gloss": "small",
+      "proto_nubian": "*nor-e",
+      "proto_taman": "*gur- court",
+      "proto_nyima": "*ka-ti- (?)",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "kiCa"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kEdiN"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "ki5a"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "Sin"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 143,
+      "french_gloss": "peu",
+      "english_gloss": "little",
+      "proto_nubian": "dilling + birgid: *maaɲ-",
+      "proto_taman": "*ma",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 144,
+      "french_gloss": "peur",
+      "english_gloss": "fear",
+      "proto_nubian": "*sar- ± suffixe *-k; *er- (VN + NK)",
+      "proto_taman": "*oog- ~ *aag-",
+      "proto_nyima": "*t̪orV",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 145,
+      "french_gloss": "pied, jambe",
+      "english_gloss": "foot, leg",
+      "proto_nubian": "*os-i, sg. os-ti",
+      "proto_taman": "*mar ~ *war",
+      "proto_nyima": "",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "magila"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "kire"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "os"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "Sokna"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 146,
+      "french_gloss": "pierre",
+      "english_gloss": "stone",
+      "proto_nubian": "*kur-ti",
+      "proto_taman": "= MONTAGNE ou « enfant de la montagne »",
+      "proto_nyima": "*midr (?)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 147,
+      "french_gloss": "plein",
+      "english_gloss": "full",
+      "proto_nubian": "*eeɲ-",
+      "proto_taman": "*binj-; *aŋe",
+      "proto_nyima": "?",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 148,
+      "french_gloss": "pleurer",
+      "english_gloss": "weep",
+      "proto_nubian": "*oɲ-",
+      "proto_taman": "*won- ~ *wan-",
+      "proto_nyima": "*tur-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 149,
+      "french_gloss": "pluie",
+      "english_gloss": "rain",
+      "proto_nubian": "*ár-e",
+      "proto_taman": "*(ŋ)ar-u",
+      "proto_nyima": "*ár-ìŋV̀",
+      "nara_form": "hala",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "ar3Nga"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "ariNE"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "aru"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "hala"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 150,
+      "french_gloss": "porte",
+      "english_gloss": "door",
+      "proto_nubian": "*agil",
+      "proto_taman": "mot",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 151,
+      "french_gloss": "porter, soulever",
+      "english_gloss": "carrier lifting",
+      "proto_nubian": "*sokk-",
+      "proto_taman": "",
+      "proto_nyima": "*T-ur / *ur",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 152,
+      "french_gloss": "pou",
+      "english_gloss": "louse",
+      "proto_nubian": "*is-i, sg. *is(i)-di",
+      "proto_taman": "*si-ti, pl. *siŋ",
+      "proto_nyima": "*wu̍nV̀",
+      "nara_form": "ʃìti",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 153,
+      "french_gloss": "prendre",
+      "english_gloss": "take",
+      "proto_nubian": "*eɲ-",
+      "proto_taman": "*eɲ- prendre; épouser",
+      "proto_nyima": "",
+      "nara_form": "nem-, nam-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 154,
+      "french_gloss": "quatre",
+      "english_gloss": "four",
+      "proto_nubian": "*kem(-n)-s",
+      "proto_taman": "*kus",
+      "proto_nyima": "?",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 155,
+      "french_gloss": "que?",
+      "english_gloss": "what?",
+      "proto_nubian": "Est: *min, Ouest: *naa ou *nee",
+      "proto_taman": "*num",
+      "proto_nyima": "*VŋV",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 156,
+      "french_gloss": "qui?",
+      "english_gloss": "who?",
+      "proto_nubian": "*ŋàa-i",
+      "proto_taman": "*na",
+      "proto_nyima": "*ŋá",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 157,
+      "french_gloss": "revenir",
+      "english_gloss": "return",
+      "proto_nubian": "*wiid-",
+      "proto_taman": "*worok-",
+      "proto_nyima": "*mun / *min",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 158,
+      "french_gloss": "rire",
+      "english_gloss": "to laugh",
+      "proto_nubian": "*gVr-",
+      "proto_taman": "*son- (?) / *wal- (?)",
+      "proto_nyima": "*ŋi- (?)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 159,
+      "french_gloss": "rivière, oued",
+      "english_gloss": "river, wadi",
+      "proto_nubian": "*iwer(-ti)",
+      "proto_taman": "*bVr-",
+      "proto_nyima": "*kɔ́l-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 160,
+      "french_gloss": "rouge",
+      "english_gloss": "red",
+      "proto_nubian": "*geel-e",
+      "proto_taman": "*ara-k",
+      "proto_nyima": "*gìlV̀",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "gila"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "tEgile"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "gElE"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "Sol"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 161,
+      "french_gloss": "sang",
+      "english_gloss": "blood",
+      "proto_nubian": "*ùg-er",
+      "proto_taman": "*agi",
+      "proto_nyima": "*wule",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 162,
+      "french_gloss": "savoir",
+      "english_gloss": "know",
+      "proto_nubian": "*ier- (< *is-er)",
+      "proto_taman": "*nal-",
+      "proto_nyima": "*mai",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "mai"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "mai"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "tumei"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "u5ur"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "3say"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 163,
+      "french_gloss": "scorpion",
+      "english_gloss": "scorpion",
+      "proto_nubian": "?",
+      "proto_taman": "*saŋir",
+      "proto_nyima": "*uno-ŋ",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 164,
+      "french_gloss": "sec",
+      "english_gloss": "second",
+      "proto_nubian": "*soɲ- (?); *soɲu-di (?); *soɲ-ger (?)",
+      "proto_taman": "*lawa- (?)",
+      "proto_nyima": "*fɔr",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 165,
+      "french_gloss": "sein, poitrine",
+      "english_gloss": "breast",
+      "proto_nubian": "*og-i; *er-ti sein(s)",
+      "proto_taman": "*bul; *juud",
+      "proto_nyima": "*kase",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 166,
+      "french_gloss": "sel",
+      "english_gloss": "salt",
+      "proto_nubian": "",
+      "proto_taman": "*kiwe",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 167,
+      "french_gloss": "semer, graine",
+      "english_gloss": "sow, seed",
+      "proto_nubian": "*teer- planter",
+      "proto_taman": "*t̪ɪr-",
+      "proto_nyima": "*tir-d- (?)",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "armanak"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "tuda"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "tEri"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "terab"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 168,
+      "french_gloss": "sept",
+      "english_gloss": "seven",
+      "proto_nubian": "kòlòda",
+      "proto_taman": "*kol",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 169,
+      "french_gloss": "serpent",
+      "english_gloss": "snake",
+      "proto_nubian": "*kaŋ(-ur) ~ *koŋ-ur",
+      "proto_taman": "*awi",
+      "proto_nyima": "*sɔ́m",
+      "nara_form": "woso",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 170,
+      "french_gloss": "six",
+      "english_gloss": "six",
+      "proto_nubian": "*gorji",
+      "proto_taman": "*tor",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 171,
+      "french_gloss": "sœur",
+      "english_gloss": "sister",
+      "proto_nubian": "*kege-di",
+      "proto_taman": "*ai-; *asa",
+      "proto_nyima": "même mot que FRÈRE",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 172,
+      "french_gloss": "soif, avoir soif",
+      "english_gloss": "thirsty",
+      "proto_nubian": "*éer",
+      "proto_taman": "*kal(a)-ŋa",
+      "proto_nyima": "*mèr-í",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 173,
+      "french_gloss": "soleil",
+      "english_gloss": "sun",
+      "proto_nubian": "*ees-i",
+      "proto_taman": "*ari",
+      "proto_nyima": "*ɲig-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 174,
+      "french_gloss": "sorgho, dourra",
+      "english_gloss": "sorghum, dourra",
+      "proto_nubian": "*usi, sg. *usi-di",
+      "proto_taman": "*kari, sg. *kari-ti",
+      "proto_nyima": "*mVnV-g",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 175,
+      "french_gloss": "sortir",
+      "english_gloss": "go out",
+      "proto_nubian": "*bal-",
+      "proto_taman": "*us- / *ud-",
+      "proto_nyima": "*ul-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 176,
+      "french_gloss": "sourd",
+      "english_gloss": "deaf",
+      "proto_nubian": "*ter(i)gi",
+      "proto_taman": "*andu",
+      "proto_nyima": "*mVni-g",
+      "nara_form": "maueno-go",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 177,
+      "french_gloss": "souris, rat",
+      "english_gloss": "mouse, rat",
+      "proto_nubian": "*is-kin-ti",
+      "proto_taman": "*kiNe, sg. *kiN(e)-ti",
+      "proto_nyima": "*kíɲà",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 178,
+      "french_gloss": "stérile",
+      "english_gloss": "sterile",
+      "proto_nubian": "*miir",
+      "proto_taman": "",
+      "proto_nyima": "*nagVr",
+      "nara_form": "mella-go",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 179,
+      "french_gloss": "taureau",
+      "english_gloss": "bull",
+      "proto_nubian": "*gur",
+      "proto_taman": "*muger",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 180,
+      "french_gloss": "tête",
+      "english_gloss": "head",
+      "proto_nubian": "*ur",
+      "proto_taman": "*(ŋ)ur-",
+      "proto_nyima": "*ɔr-",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "or"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "woro"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "ur"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "kEla"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 181,
+      "french_gloss": "travail, chose",
+      "english_gloss": "work, thing",
+      "proto_nubian": "*jaar",
+      "proto_taman": "",
+      "proto_nyima": "*kí",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 182,
+      "french_gloss": "trois",
+      "english_gloss": "three",
+      "proto_nubian": "*tossi-gu",
+      "proto_taman": "*atti",
+      "proto_nyima": "?*astu(-b)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 183,
+      "french_gloss": "trou, puits",
+      "english_gloss": "hole, well",
+      "proto_nubian": "*kul ~ *kol",
+      "proto_taman": "*kul",
+      "proto_nyima": "",
+      "nara_form": "kol-ko",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 184,
+      "french_gloss": "tu",
+      "english_gloss": "you",
+      "proto_nubian": "*i- / *in-",
+      "proto_taman": "*i, gén. *i-nu",
+      "proto_nyima": "*í, gén. *i-uŋu",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 185,
+      "french_gloss": "tuer",
+      "english_gloss": "kill",
+      "proto_nubian": "*ber-",
+      "proto_taman": "*sie-",
+      "proto_nyima": "*ni",
+      "nara_form": "sii-",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "ni"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "ni"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "bE"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "si"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 186,
+      "french_gloss": "un (nombre)",
+      "english_gloss": "one",
+      "proto_nubian": "*weer",
+      "proto_taman": "*kura",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 187,
+      "french_gloss": "urine",
+      "english_gloss": "urine",
+      "proto_nubian": "birgid + midob + nobiin: *erde; KD + NK: *erk- (< *erd-k- ?)",
+      "proto_taman": "*leg-",
+      "proto_nyima": "*ibisa",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 188,
+      "french_gloss": "vache",
+      "english_gloss": "cow",
+      "proto_nubian": "*tegi (?) ~ *tei",
+      "proto_taman": "*te, pl. *tigine",
+      "proto_nyima": "*bàr",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 189,
+      "french_gloss": "venir",
+      "english_gloss": "come",
+      "proto_nubian": "*taar-",
+      "proto_taman": "imperf. *or- / perf. *kun-",
+      "proto_nyima": "*t̪ar / *kud̪- (?)",
+      "nara_form": "till-",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 190,
+      "french_gloss": "ventre",
+      "english_gloss": "belly",
+      "proto_nubian": "*tuu < *tag-",
+      "proto_taman": "*tolol ~ *totol",
+      "proto_nyima": "*busi",
+      "nara_form": "tawa",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "karnda"
+        },
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "ar3k"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "bwiSi"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "bwuSi"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "tu"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "tawa"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 191,
+      "french_gloss": "ver",
+      "english_gloss": "worm",
+      "proto_nubian": "*wirge(-di)",
+      "proto_taman": "*wige, sg. wigi-ti",
+      "proto_nyima": "*am-V",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 192,
+      "french_gloss": "vert",
+      "english_gloss": "green",
+      "proto_nubian": "*desse; *sir-i",
+      "proto_taman": "*sir-ni",
+      "proto_nyima": "",
+      "asjp_forms": [
+        {
+          "language": "AFITTI",
+          "family": "Nyimang",
+          "form": "sosa"
+        },
+        {
+          "language": "AMA_AFRICA",
+          "family": "Nyimang",
+          "form": "alawai"
+        },
+        {
+          "language": "DONGOLESE_NUBIAN",
+          "family": "Nubian",
+          "form": "dEsE"
+        },
+        {
+          "language": "NARA",
+          "family": "Nara",
+          "form": "CilmaN"
+        }
+      ],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 193,
+      "french_gloss": "vêtement",
+      "english_gloss": "clothing",
+      "proto_nubian": "*kade, sg. *kit-ti",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 194,
+      "french_gloss": "viande",
+      "english_gloss": "meat",
+      "proto_nubian": "*kos-",
+      "proto_taman": "*isa",
+      "proto_nyima": "*kún",
+      "nara_form": "kasa",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 195,
+      "french_gloss": "vieux",
+      "english_gloss": "old",
+      "proto_nubian": "*baar-; *duri",
+      "proto_taman": "*mariŋ",
+      "proto_nyima": "*gor-",
+      "nara_form": "murga",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 196,
+      "french_gloss": "visage",
+      "english_gloss": "face",
+      "proto_nubian": "*koɲ(ɲi)",
+      "proto_taman": "*kemil",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 197,
+      "french_gloss": "vivre",
+      "english_gloss": "live",
+      "proto_nubian": "*áaɲ-",
+      "proto_taman": "",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 198,
+      "french_gloss": "voir, regarder",
+      "english_gloss": "look, see",
+      "proto_nubian": "*ŋal- voir",
+      "proto_taman": "*gun- / *gud-",
+      "proto_nyima": "*t̪igol- (?)",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 199,
+      "french_gloss": "voler, dérober",
+      "english_gloss": "steal",
+      "proto_nubian": "*marg-",
+      "proto_taman": "*ŋun-",
+      "proto_nyima": "",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "concept_no": 200,
+      "french_gloss": "vous",
+      "english_gloss": "you",
+      "proto_nubian": "*igi ~ *ugi",
+      "proto_taman": "*i-gi, gén. *i-gu-n",
+      "proto_nyima": "*i-gi, gén. *i-w-uŋ",
+      "asjp_forms": [],
+      "proto_status": "reconstructed",
+      "source": "Rilly 2010:420–529 (via Wiktionary Appendix:Northern Eastern Sudanic reconstructions)",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

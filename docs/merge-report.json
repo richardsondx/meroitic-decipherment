@@ -1,0 +1,126 @@
+{
+  "old_total": 774,
+  "new_total": 744,
+  "added_new_forms": 655,
+  "merged_into_existing": 86,
+  "added_second_record_rejected": 3,
+  "status_conflicts": [
+    {
+      "form_norm": "ahide",
+      "old_status": "proposed",
+      "new_status": "rejected",
+      "action": "kept old, added rejected record",
+      "pdf_page": 280
+    },
+    {
+      "form_norm": "dime",
+      "old_status": "proposed",
+      "new_status": "rejected",
+      "action": "kept old, added rejected record",
+      "pdf_page": 284
+    },
+    {
+      "form_norm": "wi",
+      "old_status": "certain",
+      "new_status": "rejected",
+      "action": "kept old, added rejected record",
+      "pdf_page": 302
+    }
+  ],
+  "duplicate_forms_in_new": [
+    {
+      "form_norm": "ahide",
+      "records": 2
+    },
+    {
+      "form_norm": "dime",
+      "records": 2
+    },
+    {
+      "form_norm": "hr",
+      "records": 2
+    },
+    {
+      "form_norm": "mhe",
+      "records": 2
+    }
+  ],
+  "notes": [
+    "abr: +1 attestations from Rilly 2003",
+    "ado: +4 attestations from Rilly 2003",
+    "adomn: +1 attestations from Rilly 2003",
+    "amni: +3 attestations from Rilly 2003",
+    "amod: +1 attestations from Rilly 2003",
+    "ant: +5 attestations from Rilly 2003",
+    "apedemk: +3 attestations from Rilly 2003",
+    "apote: +3 attestations from Rilly 2003",
+    "aqedise: +4 attestations from Rilly 2003",
+    "as: +1 attestations from Rilly 2003",
+    "asy: +1 attestations from Rilly 2003",
+    "atiye: +1 attestations from Rilly 2003",
+    "beke: +3 attestations from Rilly 2003",
+    "beloloke: +5 attestations from Rilly 2003",
+    "beqe: +2 attestations from Rilly 2003",
+    "bkeli: +1 attestations from Rilly 2003",
+    "d: +2 attestations from Rilly 2003",
+    "dek: +1 attestations from Rilly 2003",
+    "dik: +3 attestations from Rilly 2003",
+    "dk: +1 attestations from Rilly 2003",
+    "dkretri: +2 attestations from Rilly 2003",
+    "dor: +1 attestations from Rilly 2003",
+    "hr: +1 attestations from Rilly 2003",
+    "hr: +4 attestations from Rilly 2003",
+    "kdi: +1 attestations from Rilly 2003",
+    "kdke: +11 attestations from Rilly 2003",
+    "kisri: +1 attestations from Rilly 2003",
+    "ktke: +3 attestations from Rilly 2003",
+    "-le: +8 attestations from Rilly 2003",
+    "lh: +1 attestations from Rilly 2003",
+    "medewi: +1 attestations from Rilly 2003",
+    "mhe: +8 attestations from Rilly 2003",
+    "mkdi: +1 attestations from Rilly 2003",
+    "mleke: +1 attestations from Rilly 2003",
+    "mn: +1 attestations from Rilly 2003",
+    "mnitore: +2 attestations from Rilly 2003",
+    "mnp: +6 attestations from Rilly 2003",
+    "mnpte: +4 attestations from Rilly 2003",
+    "mreperi: +4 attestations from Rilly 2003",
+    "mte: +2 attestations from Rilly 2003",
+    "nobow: +1 attestations from Rilly 2003",
+    "npte: +3 attestations from Rilly 2003",
+    "ns: +2 attestations from Rilly 2003",
+    "pedeme: +3 attestations from Rilly 2003",
+    "pedemk: +2 attestations from Rilly 2003",
+    "perite: +1 attestations from Rilly 2003",
+    "pilqe: +4 attestations from Rilly 2003",
+    "qes: +1 attestations from Rilly 2003",
+    "qo: +2 attestations from Rilly 2003",
+    "qor: +2 attestations from Rilly 2003",
+    "qorte: +2 attestations from Rilly 2003",
+    "se: +2 attestations from Rilly 2003",
+    "sebe: +1 attestations from Rilly 2003",
+    "sem: +3 attestations from Rilly 2003",
+    "siye: +1 attestations from Rilly 2003",
+    "skdi: +1 attestations from Rilly 2003",
+    "skl: +1 attestations from Rilly 2003",
+    "snte: +4 attestations from Rilly 2003",
+    "ssimete: +3 attestations from Rilly 2003",
+    "ssor: +9 attestations from Rilly 2003",
+    "tewiseti: +3 attestations from Rilly 2003",
+    "tmi: +1 attestations from Rilly 2003",
+    "tr: +1 attestations from Rilly 2003",
+    "wide: +1 attestations from Rilly 2003",
+    "wos: +3 attestations from Rilly 2003",
+    "wyeki: +1 attestations from Rilly 2003",
+    "wyekite: +5 attestations from Rilly 2003",
+    "yereqe: +1 attestations from Rilly 2003",
+    "yetmde: +7 attestations from Rilly 2003"
+  ],
+  "merged_total": 1432,
+  "merged_by_status": {
+    "certain": 107,
+    "proposed": 1285,
+    "rejected": 40
+  },
+  "distinct_form_norms": 1387
+}

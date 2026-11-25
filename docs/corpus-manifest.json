@@ -1,0 +1,120 @@
+{
+  "version": "0.1.0",
+  "generated_at": "2026-11-20T05:10:01.050Z",
+  "status_honesty_statement": "Meroitic Corpus v0.1 is a typed, schema-validated, anti-leakage-checked machine-readable corpus built from currently digitized primary sources (Hallof Vol. 7 excerpt REM 0001–0092, all 3 Royal Narratives across 4 unmerged witnesses, Otten cleaned Millet/Rilly/Lobban examples, stratified Rilly Gold Certain lexicon, 95 bilingual Egyptian pairs, and Rilly 2010 / ASJP v20 Proto-NES comparative data). It is NOT the full 2,000-text REM corpus yet: REM 0093–2780 (Hallof print) and Rilly 2003 Vol. II (~800 entries) remain open ingestion slots awaiting publisher/author files and permission clearance.",
+  "counts": {
+    "total_real_texts": 460,
+    "hallof_excerpt_texts": 90,
+    "royal_narratives_witnesses": 4,
+    "otten_cleaned_phrase_records": 366,
+    "quarantined_synthetic_lines_excluded": 17257,
+    "lexicon_total": 774,
+    "lexicon_certain_gold": 107,
+    "lexicon_certain_non_loan": 88,
+    "lexicon_certain_egyptian_loans": 19,
+    "lexicon_proposed": 664,
+    "lexicon_rejected": 3,
+    "bilingual_dict_pairs": 95,
+    "parallel_monuments": 5,
+    "proto_nes_concepts": 200,
+    "asjp_nes_forms": 897
+  },
+  "sources_and_permissions": [
+    {
+      "source_id": "hallof-2024-vol7-excerpt",
+      "title": "Jochen Hallof (2024), Analytisches Wörterbuch des Meroitischen, Band 7: Dokumente (Excerpt REM 0001–0092)",
+      "records_ingested": 90,
+      "permission_status": "pending-permission",
+      "notes": "Publisher J.H. Röll GmbH & author Jochen Hallof. Permission email being sent on the side; tagged pending-permission."
+    },
+    {
+      "source_id": "otten-2025-royal-narrative",
+      "title": "Joshua Otten Meroitic-Corpus — 3 Royal Narratives (REM 1044, REM 1003, REM 0094 × 2 witnesses)",
+      "records_ingested": 4,
+      "permission_status": "pending-permission",
+      "notes": "Real narrative files from GitHub Joshua-Otten/Meroitic-Corpus (no license file). Synthetic mero-corpus.txt (17,257 lines) strictly quarantined."
+    },
+    {
+      "source_id": "otten-2025-cleaned-examples",
+      "title": "Otten Meroitic-Corpus — MilletExamples.txt, RillyExamples.txt, LobbanVocabList.txt & 7 Bilingual Dicts",
+      "records_ingested": 1125,
+      "permission_status": "pending-permission",
+      "notes": "Source-tagged by file and page citation; LobbanVocabList explicitly flagged unverified-citation."
+    },
+    {
+      "source_id": "rilly-certain-gold",
+      "title": "Claude Rilly (2003/2007/2010/2016) — Gold Certain Meroitic Core Lexicon",
+      "records_ingested": 107,
+      "permission_status": "academic-fair-use-excerpt",
+      "notes": "Verified certain-grade scholarly consensus entries with Egyptian loanwords flagged separately."
+    },
+    {
+      "source_id": "wiktionary-rilly-2010-nes",
+      "title": "Rilly (2010:420–529) Proto-NES Reconstructions & Rilly (2005) Nara Wordlist (Wiktionary)",
+      "records_ingested": 200,
+      "permission_status": "open-cc-by-sa",
+      "notes": "CC BY-SA 4.0. Strictly tagged proto_status=\"reconstructed\", never mixed into Meroitic attestations."
+    },
+    {
+      "source_id": "lexibank-asjp-v20",
+      "title": "ASJP v20 CLDF — Northern Eastern Sudanic (Nubian, Nara, Taman, Nyimang)",
+      "records_ingested": 897,
+      "permission_status": "open-cc-by-4.0",
+      "notes": "CC BY 4.0 open comparative lexical dataset across 18 authentic NES varieties."
+    }
+  ],
+  "next_ingestion_slots": [
+    {
+      "slot": "Hallof Vol. 7 Complete (REM 0093–2780)",
+      "scope": "260 print pages of REM transliterations + additional inscriptions",
+      "blocker": "Print-only ISBN 978-3-89754-629-5 (Verlag J.H. Röll); requires publisher permission + OCR/proofread or digital export."
+    },
+    {
+      "slot": "Rilly 2003 Vol. II Complete Lexicon (~800 entries)",
+      "scope": "Full dissertation dictionary (HAL tel-01319194, 123.6 MB scanned PDF)",
+      "blocker": "Large scanned French PDF; requires OCR + expert verification of certain vs proposed grades + author permission (CNRS-LLACAN)."
+    },
+    {
+      "slot": "Unpublished REM Texts (~900 texts)",
+      "scope": "Museum and excavation holdings not yet published in REM I–III or Hallof Vol. 7",
+      "blocker": "Requires institutional partnerships (CNRS-LLACAN, Sudan National Museum, British Museum, Ägyptisches Museum Berlin)."
+    }
+  ],
+  "anti_leakage_checks": [
+    {
+      "id": "leak-01-synthetic",
+      "name": "Zero Synthetic Augmentation Leakage (Otten mero-corpus.txt)",
+      "passed": true,
+      "severity": "pass",
+      "detail": "0 synthetic name-swapped lines in real corpus or evaluation splits (17,257 augmented lines quarantined)."
+    },
+    {
+      "id": "leak-02-gold-purity",
+      "name": "Gold Certain-Set Stratification (Rilly ~100 Certain Cap)",
+      "passed": true,
+      "severity": "pass",
+      "detail": "107 certain-grade gold entries strictly isolated from 664 proposed and 3 rejected entries."
+    },
+    {
+      "id": "leak-03-egyptian-loans",
+      "name": "Egyptian Loanword Isolation Flag",
+      "passed": true,
+      "severity": "pass",
+      "detail": "19 Egyptian loanwords tagged separately from 88 native/non-loan Meroitic gold items so borrowed words cannot inflate decipherment scores."
+    },
+    {
+      "id": "leak-04-royal-narratives",
+      "name": "3 Royal Narratives Held-Out Isolation & Witness Separation",
+      "passed": true,
+      "severity": "pass",
+      "detail": "REM 1044 (Tanyidamani), REM 1003 (Hamadab), and REM 0094 (Kalabsha, 2 unmerged editorial witnesses) isolated in split=\"long-text-test\"."
+    },
+    {
+      "id": "leak-05-proto-and-parallels",
+      "name": "Reconstructed Proto-Forms & Non-Translation Parallel Discipline",
+      "passed": true,
+      "severity": "pass",
+      "detail": "All 24 proto-forms locked to proto_status=\"reconstructed\"; all 5 parallel monuments typed strictly as name / same_event / same_genre."
+    }
+  ]
+}

@@ -24,15 +24,15 @@ Meroitic was the language of the Kingdom of Kush, in present-day Sudan. People w
 
 - The system cannot translate unseen inscriptions.
 - No proposed gloss has been upgraded to certain.
-- The merge did not raise certain coverage or exact-match accuracy.
-- No true blind test has been run yet.
-- REM 0413 is not yet merged into the corpus.
+- The lexicon merge did not raise certain coverage or exact-match accuracy. The lexicon merge combined the 774-entry built lexicon with the 744 entries OCRed from Rilly 2003 into 1,432 records.
+- We have run one blind test, on REM 0413. It scored 12.5% certain coverage, with 7 of 8 tokens unexplained.
+- REM 0413 is merged into corpus v0.2, with 461 texts.
 - We do not hold the full Hallof Vol. 7.
 - The 88 unpublished Qasr Ibrim Vol. III texts are not in our corpus.
 
 ## 3. The numbers
 
-The benchmark uses 4 royal narratives. The merge did not change these scores.
+The benchmark uses 4 royal narratives. The lexicon merge did not change these scores.
 
 | Narrative | Certain coverage | Exact match |
 |---|---|---|
@@ -43,7 +43,7 @@ The benchmark uses 4 royal narratives. The merge did not change these scores.
 
 **Read these numbers with care.** The benchmark measures lexicon coverage, not prediction. The lexicon already cites nearly every held-out token as an attestation. For example, REM 1044 has 138 certain tokens, and 137 of them cite it.
 
-**Effect of the merge**
+**Effect of the lexicon merge**
 
 - Gap tokens fell from 1,535 to 1,357, down 178.
 - Gap types fell from 715 to 642.
@@ -53,7 +53,7 @@ The benchmark uses 4 royal narratives. The merge did not change these scores.
 - The 178 tokens cover 73 forms, and 41 forms entered testing.
 - Results: 1 supported, 0 refuted, 40 untested, 32 unjudged.
 - The supported form is *penn*, "year", found in 6 inscriptions.
-- Its evidence predates the merge, so the merge did not produce it.
+- Its evidence predates the lexicon merge, so the lexicon merge did not produce it.
 - No gloss was upgraded to certain.
 
 ## 4. What we know vs what we do not know
@@ -68,9 +68,14 @@ The benchmark uses 4 royal narratives. The merge did not change these scores.
 
 ## 5. The corpus and the lexicon
 
+![REM coverage](docs/rem-coverage.svg)
+
+The chart shows which REM numbers we hold, in blocks of 100, and how much is still missing. See [docs/rem-coverage.md](docs/rem-coverage.md) for how it was computed.
+
 **Corpus**
 
 - 460 real texts, 5,791 tokens, 0 synthetic lines.
+- Corpus v0.2 adds REM 0413: 461 texts, 5,799 tokens.
 - The 17,257 name-swapped augmented lines from Otten 2025 are quarantined.
 - No open machine-readable REM corpus exists anywhere.
 
@@ -82,7 +87,7 @@ The benchmark uses 4 royal narratives. The merge did not change these scores.
 
 - 1,432 records and 1,387 distinct forms.
 - 107 certain, 1,285 proposed, 40 rejected.
-- The merge added 655 new forms from the Rilly 2003 Vol. II OCR.
+- The lexicon merge added 655 new forms from the Rilly 2003 Vol. II OCR.
 - The certain count did not change.
 
 **Comparative data**
@@ -106,11 +111,12 @@ The benchmark uses 4 royal narratives. The merge did not change these scores.
 - Source: a 2025 journal article.
 - 8 tokens, 4 lines, 3rd century CE.
 - From the Temple of Amun M.260, now Petrie Museum UC 44568.
-- Not yet merged into the corpus.
+- Merged into corpus v0.2 on Nov 25, 2026. Blind test: 12.5% certain coverage, 7 of 8 tokens unexplained.
 
 **Pending permission or access**
 
 - Hallof material is pending permission and is not redistributed here.
+- Permission requested from J.H. Röll Verlag on Nov 25, 2026, for the Vol. 7 transliterations and Qasr Ibrim Vol. III, with the author letter to Dr. Hallof enclosed for forwarding. Reply pending.
 - We have only the Vol. 7 excerpt: 90 texts, REM 0001 to 0092.
 - Full Vol. 7 is print only, not bought, and has no digital edition.
 - No full digitization of the dictionary exists anywhere.
@@ -135,7 +141,7 @@ flowchart LR
 |---|---|---|---|---|
 | Otten and Anastasopoulos 2025, Meroitic-Corpus | 897 phrases; 871 example lines | Plain text | No license file. Public visibility is not a license. | https://github.com/Joshua-Otten/Meroitic-Corpus (paper: https://aclanthology.org/2025.alp-1.11.pdf) |
 | Rilly 2003 thesis Vol. II lexicon | 744 entries: 709 lexicon, 35 rejected | Scanned PDF | License not stated on HAL | https://hal.science/tel-04793700v1/file/These%20Rilly%20EPHE%202003%20Vol%202%20Lexique%20meroitique.pdf |
-| Hallof 2024 Vol. 7 Documents excerpt | 90 texts, REM 0001 to 0092 | PDF excerpt | Commercial copyright, J.H. Roll | https://www.newbooks-services.de/MediaFiles/Texts/5/9783897546295_Excerpt_002.pdf |
+| Hallof 2024 Vol. 7 Documents excerpt | 90 texts, REM 0001 to 0092 | PDF excerpt | Commercial copyright, J.H. Röll | https://www.newbooks-services.de/MediaFiles/Texts/5/9783897546295_Excerpt_002.pdf |
 | REM Vols I-III on Persee | Not counted | Page images, no transliteration | Not stated | https://www.persee.fr/issue/rem_0000-0000_2000_num_1_1 |
 | ASJP CLDF | 897 comparative forms used | CLDF | CC BY 4.0 | https://github.com/lexibank/asjp |
 | DBMNT Old Nubian texts | Not counted | Web database | CC BY 4.0, as reported | https://dbmnt.pcma.uw.edu.pl/ |
